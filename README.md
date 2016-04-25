@@ -1,13 +1,13 @@
-# Getting-and-Cleaning-Data---Project
-run_analysis.R
+Getting-and-Cleaning-Data---Project
+#run_analysis.R
 # This script merges a "test" and a "training" data set into a new tidy data set
 ## Data was collected from smartphones for 30 different users, aged 19-48 years, who each performed six different activities:
-··* Walking
-··* Walking up stairs
-··* Walking down stairs
-··* Sitting
-··* Standing
-··* Laying
+###··* Walking
+###··* Walking up stairs
+###··* Walking down stairs
+###··* Sitting
+###··* Standing
+###··* Laying
 
 This script performs the following actions to create a new data set of average measurements by activity, for each user:
 1. Downloads and unzips the required data, if it isn't in the current working directory
