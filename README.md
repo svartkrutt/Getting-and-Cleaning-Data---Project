@@ -9,7 +9,7 @@ Getting-and-Cleaning-Data---Project
 ###* Standing
 ###* Laying
 
-This script performs the following actions to create a new data set of average measurements by activity, for each user:
+###This script performs the following actions to create a new data set of average measurements by activity, for each user:
 ####1. Downloads and unzips the required data, if it isn't in the current working directory
 ####2. Loads required libraries
 ####3. Reads all required .txt files from the downloaded data
