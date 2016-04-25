@@ -10,10 +10,10 @@ Getting-and-Cleaning-Data---Project
 ###··* Laying
 
 This script performs the following actions to create a new data set of average measurements by activity, for each user:
-1. Downloads and unzips the required data, if it isn't in the current working directory
-2. Loads required libraries
-3. Reads all required .txt files from the downloaded data
-4. Selects only measurements with standard deviation and mean data
-5. Assigns appropriate activity and feature names
-6. Combines test and training data
-7. Creates a second, independent tidy data set with the average measurement by activity, for each user. New data set is saved as HAR_tidydata.txt
+####1. Downloads and unzips the required data, if it isn't in the current working directory
+####2. Loads required libraries
+####3. Reads all required .txt files from the downloaded data
+####4. Selects only measurements with standard deviation and mean data
+####5. Assigns appropriate activity and feature names
+####6. Combines test and training data
+####7. Creates a second, independent tidy data set with the average measurement by activity, for each user. New data set is saved as HAR_tidydata.txt
